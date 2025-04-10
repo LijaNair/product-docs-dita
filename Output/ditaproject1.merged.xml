@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/D:/Lija/DITAProject/DITAMaps/ditaproject1.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">DITAProject1</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">DITAProject1</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="content_strategy_and_business_goals"><resourceid appid="content_strategy_and_business_goals" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Content strategy and business goals</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="creating_a_business_case_for_your_content_strategy"><resourceid appid="creating_a_business_case_for_your_content_strategy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Creating a business case for your content strategy</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="supporting_marketing_with_technical_content"><resourceid appid="supporting_marketing_with_technical_content" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Supporting marketing with technical content</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="increasing_product_visibility"><resourceid appid="increasing_product_visibility" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Increasing product visibility</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="developing_a_technical_content_strategy"><resourceid appid="developing_a_technical_content_strategy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Developing a technical content strategy</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="developing_and_implementing_a_content_strategy"><resourceid appid="developing_and_implementing_a_content_strategy" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Developing and implementing a content strategy</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="task"><topicmeta class="- map/topicmeta " data-topic-id="managing_change"><resourceid appid="managing_change" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Managing change</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference_jgf_3df_vt"><resourceid appid="reference_jgf_3df_vt" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">addEntry</navtitle><?ditaot gentext?></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="content_strategy_and_business_goals" oid="content_strategy_and_business_goals" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Content strategy and business goals</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The issues to consider are:</p>
+        <ul class="- topic/ul " id="unique_1_Connect_42_ul_ijr_51r_52c" nd:nd-id="ul_ijr_51r_52c"><li class="- topic/li ">The real cost of low-cost documentation</li><li class="- topic/li ">How to create an efficient content development process</li><li class="- topic/li ">Whether high-quality documentation can lower the cost of technical support</li><li class="- topic/li "> The most cost-effective way to share technical content across the enterprise<note class="- topic/note " id="unique_1_Connect_42_note_jh2_gbr_52c" nd:nd-id="note_jh2_gbr_52c">Ignoring content can have cost implications across the
+                    organization.</note></li></ul>
+        <p class="- topic/p ">To implement your project and improve your chances of success, we recommend following
+            this sequence:<ol class="- topic/ol " id="unique_1_Connect_42_ol_bj4_mbr_52c" nd:nd-id="ol_bj4_mbr_52c"><li class="- topic/li ">
+                    <p class="- topic/p ">Identify and interview stakeholders.</p>
+                </li><li class="- topic/li ">
+                    <p class="- topic/p ">Define roles and responsibilities.</p>
+                </li><li class="- topic/li ">Establish timelines and milestones.</li><li class="- topic/li ">
+                    <p class="- topic/p ">Build the content creation system.</p>
+                </li><li class="- topic/li ">
+                    <p class="- topic/p ">Convert legacy content.</p>
+                </li><li class="- topic/li ">
+                    <p class="- topic/p ">Deliver content.</p>
+                </li><li class="- topic/li ">
+                    <p class="- topic/p ">Capture project knowledge.</p>
+                </li><li class="- topic/li ">
+                    <p class="- topic/p ">Ensure long-term success.</p>
+                </li></ol></p>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="creating_a_business_case_for_your_content_strategy" oid="creating_a_business_case_for_your_content_strategy" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Creating a business case for your content strategy</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_2_Connect_42_prereq_jwf_snr_52c" nd:nd-id="prereq_jwf_snr_52c">Thoroughly assess your content and content development
+            process so that you can understand the gap between the strategy you need and the
+            strategy currently in place.</prereq>
+        <context class="- topic/section task/context ">These instructions will show you how to develop a business case that you can use to
+            show that your company needs a new content strategy.<p class="- topic/p ">You may find that your company
+                could save money on content production in the following areas:</p></context>
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Automation</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Reuse</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Localization</cmd>
+            </step></steps>
+    </taskbody>
+</task></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="supporting_marketing_with_technical_content" oid="supporting_marketing_with_technical_content" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Supporting marketing with technical content</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Tech comm and marcom have long occupied opposite ends of the content spectrum. The
+            stereotype is that tech comm is text-heavy, dense, and badly formatted whereas marcom is
+            shiny, beautiful, and content-free. From there, the debate just intensifies:<table class="- topic/table " colsep="1" frame="all" id="unique_3_Connect_42_table_rj5_zcr_52c" nd:nd-id="table_rj5_zcr_52c" rowsep="1">
+                <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Marcom versus tech comm: the stereotypes</ph></title>
+                <tgroup align="left" class="- topic/tgroup " cols="3">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;12:69" xtrf="file:/D:/Lija/DITAProject/Concept%20Topics/supporting_marketing_with_technical_content.dita" style="width:33.3333%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;13:69" xtrf="file:/D:/Lija/DITAProject/Concept%20Topics/supporting_marketing_with_technical_content.dita" style="width:33.3333%;"/>
+                    <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;14:69" xtrf="file:/D:/Lija/DITAProject/Concept%20Topics/supporting_marketing_with_technical_content.dita" style="width:33.3333%;"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1"/><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Marcom</b></entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1"><b class="+ topic/ph hi-d/b ">Tech comm</b></entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Design or automation?</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">Design</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">Automation</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">How much detail?</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">As little as possible</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">As much as possible</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Assumed impact on revenue</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">A lot</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">None</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Primary purpose</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">Persuade people to buy</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">Inform people</entry></row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+        <p class="- topic/p ">Give people a friendly interface that lets them quickly narrow down their options and
+            choose the one they want. You don’t have to expose all of the fields in the
+            database—just the ones that help people narrow down their choices.</p>
+        <fig class="- topic/fig " id="unique_3_Connect_42_fig_ab4_4dr_52c" nd:nd-id="fig_ab4_4dr_52c"><p class="- topic/p "><i class="+ topic/ph hi-d/i ">The product list on the right updates as you make selections on the left</i></p></fig>
+        <image class="- topic/image " dita-ot:image-width="573" dita-ot:image-height="516" href="file:/D:/Lija/DITAProject/Images/Supporting%20marketing%20with%20technical%20content_1.PNG" id="unique_3_Connect_42_image_xmy_tdr_52c" nd:nd-id="image_xmy_tdr_52c" placement="inline"/>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="increasing_product_visibility" oid="increasing_product_visibility" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Increasing product visibility</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Technical content can help organizations increase the visibility of their products in the
+            marketplace. Officially, technical content is intended for <term class="- topic/term ">product
+                customers</term>—people who buy a product and then look at the documentation.</p>
+        <p class="- topic/p ">But one opinion poll indicates that about one-third of  buyers <fn class="- topic/fn ">Consumer Feelings
+                about Product Documentation,” an opinion poll conducted online by Sharon Burton</fn>
+            look at the documentation before buying a product, and the quality of the documentation
+            will affect their purchasing decision</p>
+        <p class="- topic/p ">To reel in new prospects, your content must perform in three different ways: be
+            searchable, findable, and discoverable.<dl class="- topic/dl " id="unique_4_Connect_42_dl_nyc_2fr_52c" nd:nd-id="dl_nyc_2fr_52c">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Searchable </dt>
+                    <dd class="- topic/dd ">Information must be available via an internet search. </dd>
+                </dlentry>
+            </dl><dl class="- topic/dl " id="unique_4_Connect_42_dl_yfh_nfr_52c" nd:nd-id="dl_yfh_nfr_52c">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Findable</dt>
+                    <dd class="- topic/dd ">Information must perform well for relevant keywords.</dd>
+                </dlentry>
+            </dl><dl class="- topic/dl " id="unique_4_Connect_42_dl_mfb_4fr_52c" nd:nd-id="dl_mfb_4fr_52c">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">Discoverable</dt>
+                    <dd class="- topic/dd ">Information must increase the likelihood that people will link to your
+                        information.</dd>
+                </dlentry>
+            </dl></p>
+        <p class="- topic/p ">To read more, go to<menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;31:44" xtrf="file:/D:/Lija/DITAProject/Concept%20Topics/increasing_product_visibility.dita"><uicontrol class="+ topic/ph ui-d/uicontrol "> Content</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Business Goals</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Marketing and product visibility</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "/></menucascade><b class="+ topic/ph hi-d/b ">Increasing product visibility</b>. </p>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="developing_a_technical_content_strategy" oid="developing_a_technical_content_strategy" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Developing a technical content strategy</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">After reviewing the existing information products, you should have a list of content
+            challenges and ideas for improvement. Here are some common scenarios.</p>
+        <section class="- topic/section " id="unique_5_Connect_42_section_h3t_hlr_52c" nd:nd-id="section_h3t_hlr_52c">
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Reuse between technical documentation and training materials</b></title>
+            <p class="- topic/p ">The training department uses reference and task information created by the technical
+                documentation team, but the instructional designers copy and paste instead of
+                linking because the two groups use different, incompatible content creation tools. </p>
+            
+        </section>
+        <section class="- topic/section " id="unique_5_Connect_42_section_k2r_mlr_52c" nd:nd-id="section_k2r_mlr_52c">
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">HTML output is needed in addition to PDF</b></title>
+            <p class="- topic/p ">Your content may look like this in HTML:</p>
+            <codeblock class="+ topic/pre pr-d/codeblock " id="unique_5_Connect_42_codeblock_xvq_ylr_52c" nd:nd-id="codeblock_xvq_ylr_52c" xml:space="preserve">&lt;div class="p"&gt;You may produce high-value content, such as the following: 
+&lt;ul class="ul"&gt; &lt;li class="li"&gt;&lt;p class="p"&gt;Training materials&lt;/p&gt;&lt;/li&gt; &lt;li class="li"&gt;&lt;p class="p"&gt;White papers&lt;/p&gt;&lt;/li&gt; 
+&lt;li class="li"&gt;&lt;p class="p"&gt;Knowledge base articles&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;</codeblock>
+            <p class="- topic/p ">The <codeph class="+ topic/ph pr-d/codeph ">&lt;div&gt;</codeph> contains the unordered list.</p>
+        </section>
+        <section class="- topic/section " id="unique_5_Connect_42_section_xb2_5mr_52c" nd:nd-id="section_xb2_5mr_52c">
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Content is not appropriate for the target audience</b></title>
+            <lq class="- topic/lq " id="unique_5_Connect_42_lq_xrh_wmr_52c" nd:nd-id="lq_xrh_wmr_52c">The information is targeted at the wrong audience. For example,
+                a document intended for patients in a hospital uses complex medical terminology that
+                only medical professionals would understand.</lq>
+        </section>
+    </conbody>
+<task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="developing_and_implementing_a_content_strategy" oid="developing_and_implementing_a_content_strategy" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Developing and implementing a content strategy</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps " id="unique_6_Connect_42_steps_lyd_3pr_52c" nd:nd-id="steps_lyd_3pr_52c"><stepsection class="- topic/li task/stepsection ">Create a content strategy.</stepsection><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Identify and interview stakeholders.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Establish implementation goals and metrics.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Define roles and responsibilities</cmd>
+                <stepxmp class="- topic/itemgroup task/stepxmp ">
+                    <ul class="- topic/ul " id="unique_6_Connect_42_ul_lyx_mpr_52c" nd:nd-id="ul_lyx_mpr_52c"><li class="- topic/li ">Education</li><li class="- topic/li ">Development</li><li class="- topic/li ">Review</li><li class="- topic/li ">Approval</li></ul>
+                </stepxmp>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Establish timeline and milestones.</cmd>
+            </step><stepsection class="- topic/li task/stepsection ">
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Implement your content strategy.</b></p>
+            </stepsection><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Build the content creation system.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Convert legacy content.</cmd>
+                <choices class="- topic/ul task/choices " id="unique_6_Connect_42_choices_jw2_5pr_52c" nd:nd-id="choices_jw2_5pr_52c"><choice class="- topic/li task/choice ">Convert everything into the new system</choice><choice class="- topic/li task/choice "> Identify high-priority content and convert it</choice><choice class="- topic/li task/choice ">Just-in-time conversion</choice><choice class="- topic/li task/choice ">Assess for conversion</choice><choice class="- topic/li task/choice ">Convert nothing</choice></choices>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Deliver Content.</cmd>
+                <choicetable class="- topic/simpletable task/choicetable " frame="all" id="unique_6_Connect_42_choicetable_h2p_zpr_52c" nd:nd-id="choicetable_h2p_zpr_52c" keycol="1" relcolwidth="1* 1*">
+                    <chhead class="- topic/sthead task/chhead ">
+                        <choptionhd class="- topic/stentry task/choptionhd " dita-ot:x="1" dita-ot:y="1">Delivery Methods</choptionhd>
+                        <chdeschd class="- topic/stentry task/chdeschd " dita-ot:x="2" dita-ot:y="1">Benefits</chdeschd>
+                    </chhead>
+                    <chrow class="- topic/strow task/chrow "><choption class="- topic/stentry task/choption " dita-ot:x="1" dita-ot:y="2">PDF</choption><chdesc class="- topic/stentry task/chdesc " dita-ot:x="2" dita-ot:y="2">
+                            <p class="- topic/p ">Visual design, option to print</p>
+                        </chdesc></chrow>
+                    <chrow class="- topic/strow task/chrow "><choption class="- topic/stentry task/choption " dita-ot:x="1" dita-ot:y="3">HTML</choption><chdesc class="- topic/stentry task/chdesc " dita-ot:x="2" dita-ot:y="3">
+                            <p class="- topic/p ">Accessibility, interactivity, responsive design</p>
+                        </chdesc></chrow>
+                    <chrow class="- topic/strow task/chrow "><choption class="- topic/stentry task/choption " dita-ot:x="1" dita-ot:y="4">EPUB</choption><chdesc class="- topic/stentry task/chdesc " dita-ot:x="2" dita-ot:y="4">Electronic content when Internet access is unavailable</chdesc></chrow>                    
+                </choicetable>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Capture Project Knowledge.</cmd>
+                <substeps class="- topic/ol task/substeps "><substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Document your content model, specifications, and best practices.</cmd>
+                    </substep><substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Provide training to authors on writing in the new environment.</cmd>
+                    </substep><substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Provide training to staff on maintaining the new system.</cmd>
+                    </substep></substeps>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Ensure long-term success.</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult ">You can tick off the items you listed at the beginning of the project as
+                    accomplishments now.</stepresult>
+            </step></steps>
+    </taskbody>
+</task></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="managing_change" oid="managing_change" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Managing change</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps "><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Demonstrate value to upper management and those in the trenches.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "> Offer training and knowledge transfer.</cmd>
+                <stepxmp class="- topic/itemgroup task/stepxmp ">
+                    <ul class="- topic/ul " id="unique_7_Connect_42_ul_kbw_t5r_52c" nd:nd-id="ul_kbw_t5r_52c"><li class="- topic/li ">Classroom training</li><li class="- topic/li ">Live web-based training</li><li class="- topic/li ">Train the trainer</li></ul>
+                </stepxmp>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Differentiate between legitimate issues with the new workflow and reflexive
+                    recalcitrance.</cmd>
+            </step><step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enlist participants in a pilot project to explain process change.</cmd>
+            </step></steps>
+        <result class="- topic/section task/result " id="unique_7_Connect_42_result_z1m_1vr_52c" nd:nd-id="result_z1m_1vr_52c"> Good management is critical when a company changes
+            workflow; without it, the implementation of new processes will likely fail. Bad
+            management kills implementations, and things can get ugly for everyone
+            involved.</result>
+        <example class="- topic/example " id="unique_7_Connect_42_example_qdm_2vr_52c" nd:nd-id="example_qdm_2vr_52c">
+            <p class="- topic/p ">Without good change management, a percentage of staff who will be dead set against
+                changes on general principle could gain the support of other team members, until
+                almost everyone refuses to use the new system.</p>
+        </example>
+        <postreq class="- topic/section task/postreq " id="unique_7_Connect_42_postreq_qmf_fvr_52c" nd:nd-id="postreq_qmf_fvr_52c">When you have managed change successfully, you can start
+            creating useful content in the new system.</postreq>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="reference_jgf_3df_vt" oid="reference_jgf_3df_vt" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">addEntry</ph></title>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section ">The <cmdname class="+ topic/keyword sw-d/cmdname ">addEntry</cmdname> command is used to enter a new documentation release
+            into the content analysis database.</section>
+        <refsyn class="- topic/section     reference/refsyn ">
+            <synph class="+ topic/ph pr-d/synph ">-addEntry {nLanguage | nVersion | nOutput}</synph>
+        </refsyn>
+        <properties class="- topic/simpletable reference/properties " id="unique_8_Connect_42_properties_qxt_3df_vt" nd:nd-id="properties_qxt_3df_vt">
+            <prophead class="- topic/sthead      reference/prophead ">
+                <proptypehd class="- topic/stentry     reference/proptypehd " dita-ot:x="1" dita-ot:y="1">Required?</proptypehd>
+                <propvaluehd class="- topic/stentry     reference/propvaluehd " dita-ot:x="2" dita-ot:y="1">Parameter</propvaluehd>
+                <propdeschd class="- topic/stentry     reference/propdeschd " dita-ot:x="3" dita-ot:y="1">Description</propdeschd>
+            </prophead>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="2">Yes</proptype><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="2">nLanguage</propvalue><propdesc class="- topic/stentry     reference/propdesc " dita-ot:x="3" dita-ot:y="2">The language displayed by default</propdesc></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="3"/><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="3">nVersion</propvalue><propdesc class="- topic/stentry     reference/propdesc " dita-ot:x="3" dita-ot:y="3">The version of the content displayed by default</propdesc></property>
+            <property class="- topic/strow       reference/property "><proptype class="- topic/stentry     reference/proptype " dita-ot:x="1" dita-ot:y="4"/><propvalue class="- topic/stentry     reference/propvalue " dita-ot:x="2" dita-ot:y="4">nOutput</propvalue><propdesc class="- topic/stentry     reference/propdesc " dita-ot:x="3" dita-ot:y="4">The required delivery format</propdesc></property>
+        </properties>
+    </refbody>
+</reference></map>
