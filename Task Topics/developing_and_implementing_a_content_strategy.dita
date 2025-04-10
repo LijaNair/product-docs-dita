@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="developing_and_implementing_a_content_strategy">
+    <title>Developing and implementing a content strategy</title>
+    <taskbody>
+        <steps id="steps_lyd_3pr_52c">
+            <stepsection>Create a content strategy.</stepsection>
+            <step>
+                <cmd>Identify and interview stakeholders.</cmd>
+            </step>
+            <step>
+                <cmd>Establish implementation goals and metrics.</cmd>
+            </step>
+            <step>
+                <cmd> Define roles and responsibilities</cmd>
+                <stepxmp>
+                    <ul id="ul_lyx_mpr_52c">
+                        <li>Education</li>
+                        <li>Development</li>
+                        <li>Review</li>
+                        <li>Approval</li>
+                    </ul>
+                </stepxmp>
+            </step>
+            <step>
+                <cmd>Establish timeline and milestones.</cmd>
+            </step>
+            <stepsection>
+                <p><b>Implement your content strategy.</b></p>
+            </stepsection>
+            <step>
+                <cmd>Build the content creation system.</cmd>
+            </step>
+            <step>
+                <cmd>Convert legacy content.</cmd>
+                <choices id="choices_jw2_5pr_52c">
+                    <choice>Convert everything into the new system</choice>
+                    <choice> Identify high-priority content and convert it</choice>
+                    <choice>Just-in-time conversion</choice>
+                    <choice>Assess for conversion</choice>
+                    <choice>Convert nothing</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Deliver Content.</cmd>
+                <choicetable frame="all" relcolwidth="1* 1*" id="choicetable_h2p_zpr_52c">
+                    <chhead>
+                        <choptionhd>Delivery Methods</choptionhd>
+                        <chdeschd>Benefits</chdeschd>
+                    </chhead>
+                    <chrow>
+                        <choption>PDF</choption>
+                        <chdesc>
+                            <p>Visual design, option to print</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>HTML</choption>
+                        <chdesc>
+                            <p>Accessibility, interactivity, responsive design</p>
+                        </chdesc>
+                    </chrow>
+                    <chrow>
+                        <choption>EPUB</choption>
+                        <chdesc>Electronic content when Internet access is unavailable</chdesc>
+                    </chrow>                    
+                </choicetable>
+            </step>
+            <step>
+                <cmd>Capture Project Knowledge.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Document your content model, specifications, and best practices.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Provide training to authors on writing in the new environment.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Provide training to staff on maintaining the new system.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Ensure long-term success.</cmd>
+                <stepresult>You can tick off the items you listed at the beginning of the project as
+                    accomplishments now.</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

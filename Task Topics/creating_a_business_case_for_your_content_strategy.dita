@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_business_case_for_your_content_strategy">
+    <title>Creating a business case for your content strategy</title>
+    <taskbody>
+        <prereq id="prereq_jwf_snr_52c">Thoroughly assess your content and content development
+            process so that you can understand the gap between the strategy you need and the
+            strategy currently in place.</prereq>
+        <context>These instructions will show you how to develop a business case that you can use to
+            show that your company needs a new content strategy.<p>You may find that your company
+                could save money on content production in the following areas:</p></context>
+        <steps>
+            <step>
+                <cmd>Automation</cmd>
+            </step>
+            <step>
+                <cmd>Reuse</cmd>
+            </step>
+            <step>
+                <cmd>Localization</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
