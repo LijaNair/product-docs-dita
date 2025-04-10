@@ -12,18 +12,17 @@ This repository contains the DITA-based technical documentation. It is structure
 
 ## 📁 Repository Structure
 product-docs-dita/
-├── topics/            # All DITA topic files (.dita)
-├── images/            # Referenced images and diagrams
-├── maps/              # DITA map files for various document builds
-├── output/            # Generated output files (HTML, PDF)
-├── resources/         # Common resources (stylesheets, reltables)
-├── README.md          # Project overview
-└── dita-ot/           # DITA Open Toolkit integration (if local build is used)
-
+- topics/ - Contains concept topic files (.dita).
+- task topics - Contains tasks (.dita).
+- reference topics - Contains reference tables and informations (.dita).
+- images - Contain the referenced images and diagrams.
+- output/ - - Contain the DITA map files and generated output files (HTML, PDF).
+- README.md - Project overview.
+---
 
 ## 🛠️ Tools Used
 
-- Oxygen XML Editor / DITA-OT  
+- Oxygen XML Editor  
 - Git for version control  
 - Optional: CI/CD for publishing
 ---
