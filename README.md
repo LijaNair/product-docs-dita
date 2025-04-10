@@ -32,5 +32,8 @@ product-docs-dita/
 
 1. **Clone the repository:**
    ```bash
-  git clone https://github.com/your-username/product-docs-dita.git]
-  (https://github.com/LijaNair/product-docs-dita/tree/main)
+    git clone https://github.com/your-username/product-docs-dita.git
+    (https://github.com/LijaNair/product-docs-dita/tree/main)
+2. Open in Oxygen XML Editor or run builds using DITA-OT
+3. Start editing or building documentation!
+   
