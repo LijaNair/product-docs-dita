@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="supporting_marketing_with_technical_content">
+    <title>Supporting marketing with technical content</title>
+    <conbody>
+        <p>Tech comm and marcom have long occupied opposite ends of the content spectrum. The
+            stereotype is that tech comm is text-heavy, dense, and badly formatted whereas marcom is
+            shiny, beautiful, and content-free. From there, the debate just intensifies:<table
+                frame="all" rowsep="1" colsep="1" id="table_rj5_zcr_52c">
+                <title>Marcom versus tech comm: the stereotypes</title>
+                <tgroup cols="3" align="left">
+                    <colspec colnum="1" colname="c1" colwidth="1*"/>
+                    <colspec colnum="2" colname="c2" colwidth="1*"/>
+                    <colspec colnum="3" colname="c3" colwidth="1*"/>
+                    <thead>
+                        <row>
+                            <entry/>
+                            <entry><b>Marcom</b></entry>
+                            <entry><b>Tech comm</b></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Design or automation?</entry>
+                            <entry>Design</entry>
+                            <entry>Automation</entry>
+                        </row>
+                        <row>
+                            <entry>How much detail?</entry>
+                            <entry>As little as possible</entry>
+                            <entry>As much as possible</entry>
+                        </row>
+                        <row>
+                            <entry>Assumed impact on revenue</entry>
+                            <entry>A lot</entry>
+                            <entry>None</entry>
+                        </row>
+                        <row>
+                            <entry>Primary purpose</entry>
+                            <entry>Persuade people to buy</entry>
+                            <entry>Inform people</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table></p>
+        <p>Give people a friendly interface that lets them quickly narrow down their options and
+            choose the one they want. You don’t have to expose all of the fields in the
+            database—just the ones that help people narrow down their choices.</p>
+        <fig id="fig_ab4_4dr_52c">
+            <p><i>The product list on the right updates as you make selections on the left</i></p>
+        </fig>
+        <image href="../Images/Supporting%20marketing%20with%20technical%20content_1.PNG"
+            id="image_xmy_tdr_52c"/>
+    </conbody>
+</concept>
