@@ -32,4 +32,5 @@ product-docs-dita/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/product-docs-dita.git
+  [ git clone https://github.com/your-username/product-docs-dita.git
+](https://github.com/LijaNair/product-docs-dita/tree/main)
